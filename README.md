@@ -1,3 +1,11 @@
+## Project retired
+
+This crate is no longer actively maintained. The repository has been archived and no additional development or support will occur.
+
+I consent to the transfer of this crate to the first person who asks [help@crates.io](mailto:help@crates.io) for it.
+
+Thank you for any past interest and usage.
+
 # rfl-template
 
 A CLI tool to scaffold Rust for Linux (RFL) kernel modules with proper boilerplate and conventions.
