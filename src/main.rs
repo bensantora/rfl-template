@@ -1,3 +1,5 @@
+//If this tool provided value please consider awarding it a ⭐.
+
 mod cli;
 mod generator;
 mod templates;
